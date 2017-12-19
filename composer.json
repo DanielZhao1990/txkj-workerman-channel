@@ -1,0 +1,21 @@
+{
+  "name": "nmgtxkj/txkj-workerman-channel",
+  "description": "txkj-workerman-channel",
+  "type": "library",
+  "license": "MPL",
+  "authors": [
+    {
+      "name": "danielzhao",
+      "email": "zhao0829wang@163.com"
+    }
+  ],
+  "require": {
+    "php": "^5.3.3 || ^7.0",
+    "nmgtxkj/toolbox": "~1.0.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "toolbox\\": "src"
+    }
+  }
+}
